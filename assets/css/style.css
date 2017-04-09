@@ -1,0 +1,29 @@
+body {
+	background:lightblue;
+}
+
+.jumbotron {
+	margin-top: 15px;
+	background: orange;
+	color: lightblue;
+	text-align: center;
+	 font-family: 'Georgia', Times, Times New Roman, serif;
+	 text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.panel {
+	background:lightgreen;
+}
+
+.panel-title {
+	color:lightpink;
+}
+
+td {color:blue;
+font-weight:bold;}
+
+#add-airline-btn {
+	color:red;
+	background: coral;
+	font-weight:bold;
+}
